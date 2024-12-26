@@ -1,0 +1,489 @@
+2024-10-08 18:43:09:439 [32minfo[39m: [32mServer is running on port 8000[39m
+2024-10-08 18:43:28:4328 [32minfo[39m: [32mServer is running on port 8000[39m
+2024-10-08 18:43:34:4334 [32minfo[39m: [32mServer is running on port 8000[39m
+2024-10-08 18:44:49:4449 [32minfo[39m: [32mServer is running on port 8000[39m
+2024-10-08 18:45:30:4530 [32minfo[39m: [32mServer is running on port 8000[39m
+2024-10-08 18:45:55:4555 [32minfo[39m: [32mServer is running on port 8000[39m
+2024-10-08 18:46:15:4615 info: Server is running on port 8000
+[2024-10-08 18:46:28:4628 info: Server is running on port 8000
+[2024-10-08 18:46:31:4631 info]: Server is running on port 8000
+[2024-10-08 18:46:44:4644] info]: Server is running on port 8000
+[2024-10-08 18:46:46:4646] info: Server is running on port 8000
+[2024-10-08 18:46:51:4651] info: [Server is running on port 8000
+[2024-10-08 18:46:52:4652] info: [Server is running on port 8000]
+[2024-10-08 18:47:27:4727] info]: [Server is running on port 8000]
+[2024-10-08 18:47:29:4729 info]: [Server is running on port 8000]
+[2024-10-08 18:47:34:4734 info]: [Server is running on port 8000]
+[2024-10-08 18:47:40:4740 info]: Server is running on port 8000]
+[2024-10-08 18:47:42:4742 info]: Server is running on port 8000
+[2024-10-08 18:47:45:4745] info]: Server is running on port 8000
+[2024-10-08 18:47:47:4747] [info]: Server is running on port 8000
+[2024-10-08 18:48:15:4815] [[32minfo[39m]: [32mServer is running on port 8000[39m
+[undefined] [info]: Server is running on port 8000
+[undefined] [info]: Server is running on port 8000
+[undefined] [info]: Server is running on port 8000
+[2024-10-08 18:48:53:4853] [[32minfo[39m]: [32mServer is running on port 8000[39m
+[2024-10-08 18:50:04:504] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 18:50:27:5027] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 18:51:36:5136] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 18:52:15:5215] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 18:52:47:5247] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 18:54:35:5435] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 18:54:38:5438] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 18:58:51:5851] [[32minfo[39m]: Database connected
+[2024-10-08 18:58:51:5851] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:00:36:036] [[32minfo[39m]: Database connected
+[2024-10-08 19:00:36:036] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:01:23:123] [[32minfo[39m]: Database connected
+[2024-10-08 19:01:23:123] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:02:19:219] [[32minfo[39m]: Database connected
+[2024-10-08 19:02:19:219] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:02:43:243] [[32minfo[39m]: Database connected
+[2024-10-08 19:02:43:243] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:02:51:251] [[32minfo[39m]: Database connected
+[2024-10-08 19:02:51:251] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:02:59:259] [[32minfo[39m]: Database connected
+[2024-10-08 19:02:59:259] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:07:37] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:07:37] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:21:321] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:21:321] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:33:333] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:33:333] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:43:343] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:43:343] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:47:347] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:47:347] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:48:348] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:48:348] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:50:350] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:50:350] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:54:354] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:54:354] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:03:57:357] [[32minfo[39m]: Database connected
+[2024-10-08 19:03:57:357] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:04:44] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:04:44] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:06:46] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:06:46] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:09:49] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:09:49] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:10:410] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:10:410] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:12:412] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:12:412] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:22:422] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:22:422] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:28:428] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:28:428] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:30:430] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:30:430] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:32:432] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:32:432] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:34:434] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:34:434] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:35:435] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:35:435] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:38:438] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:38:438] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:39:439] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:39:439] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:42:442] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:42:442] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:45:445] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:45:445] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:49:449] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:49:449] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:52:452] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:52:452] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:04:53:453] [[32minfo[39m]: Database connected
+[2024-10-08 19:04:53:453] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:06:56] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:06:56] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:09:59] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:09:59] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:22:522] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:22:522] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:23:523] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:23:523] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:28:528] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:28:528] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:31:531] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:31:531] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:35:535] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:35:535] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:36:536] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:36:536] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:38:538] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:38:538] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:42:542] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:42:542] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:48:548] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:48:548] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:56:556] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:56:556] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:05:58:558] [[32minfo[39m]: Database connected
+[2024-10-08 19:05:58:558] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:02:62] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:02:62] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:04:64] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:04:64] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:06:66] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:06:66] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:07:67] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:07:67] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:08:68] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:08:68] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:15:615] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:15:615] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:19:619] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:19:619] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:23:623] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:23:623] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:26:626] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:26:626] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:27:627] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:27:627] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:28:628] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:28:628] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:31:631] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:31:631] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:36:636] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:36:636] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:44:644] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:44:644] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:45:645] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:45:645] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:48:648] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:48:648] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:49:649] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:49:649] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:50:650] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:50:650] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:53:653] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:53:653] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:06:55:655] [[32minfo[39m]: Database connected
+[2024-10-08 19:06:55:655] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:01:71] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:01:71] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:04:74] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:04:74] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:07:77] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:07:77] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:15:715] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:15:715] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:17:717] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:17:717] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:19:719] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:19:719] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:22:722] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:22:722] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:26:726] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:26:726] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:33:733] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:33:733] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:37:737] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:37:737] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:38:738] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:38:738] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:43:743] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:43:743] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:44:744] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:44:744] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:45:745] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:45:745] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:56:756] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:56:756] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:57:757] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:57:757] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:07:58:758] [[32minfo[39m]: Database connected
+[2024-10-08 19:07:58:758] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:08:02:82] [[32minfo[39m]: Database connected
+[2024-10-08 19:08:02:82] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:08:18:818] [[32minfo[39m]: Database connected
+[2024-10-08 19:08:18:818] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:08:25:825] [[32minfo[39m]: Database connected
+[2024-10-08 19:08:25:825] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:08:27:827] [[32minfo[39m]: Database connected
+[2024-10-08 19:08:27:827] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:08:31:831] [[32minfo[39m]: Database connected
+[2024-10-08 19:08:31:831] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:08:33:833] [[32minfo[39m]: Database connected
+[2024-10-08 19:08:33:833] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:04:94] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:04:94] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:08:98] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:08:98] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:10:910] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:10:910] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:11:911] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:11:911] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:13:913] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:13:913] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:14:914] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:14:914] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:22:922] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:22:922] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:24:924] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:24:924] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:36:936] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:36:936] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:37:937] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:37:937] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:39:939] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:39:939] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:41:941] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:41:941] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:48:948] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:48:948] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:51:951] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:51:951] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:54:954] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:54:954] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:09:56:956] [[32minfo[39m]: Database connected
+[2024-10-08 19:09:56:956] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:08:108] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:08:108] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:17:1017] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:17:1017] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:21:1021] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:21:1021] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:24:1024] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:24:1024] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:29:1029] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:29:1029] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:38:1038] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:38:1038] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:40:1040] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:40:1040] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:43:1043] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:43:1043] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:44:1044] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:44:1044] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:48:1048] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:48:1048] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:52:1052] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:52:1052] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:10:55:1055] [[32minfo[39m]: Database connected
+[2024-10-08 19:10:55:1055] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:01:111] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:01:111] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:04:114] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:04:114] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:13:1113] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:13:1113] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:15:1115] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:15:1115] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:19:1119] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:19:1119] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:22:1122] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:22:1122] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:24:1124] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:24:1124] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:25:1125] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:25:1125] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:31:1131] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:31:1131] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:39:1139] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:39:1139] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:43:1143] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:43:1143] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:46:1146] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:47:1147] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:49:1149] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:49:1149] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:50:1150] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:50:1150] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:51:1151] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:51:1151] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:11:57:1157] [[32minfo[39m]: Database connected
+[2024-10-08 19:11:57:1157] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:01:121] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:01:121] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:03:123] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:03:123] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:05:125] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:05:125] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:06:126] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:06:126] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:21:1221] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:21:1221] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:23:1223] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:23:1223] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:26:1226] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:26:1226] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:28:1228] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:28:1228] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:33:1233] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:33:1233] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:35:1235] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:35:1235] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:40:1240] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:40:1240] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:43:1243] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:43:1243] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:51:1251] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:51:1251] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:53:1253] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:53:1253] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:56:1256] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:56:1256] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:12:57:1257] [[32minfo[39m]: Database connected
+[2024-10-08 19:12:57:1257] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:06:136] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:06:136] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:08:138] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:08:138] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:18:1318] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:18:1318] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:25:1325] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:25:1325] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:26:1326] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:26:1326] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:29:1329] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:29:1329] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:32:1332] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:32:1332] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:34:1334] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:34:1334] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:40:1340] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:40:1340] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:42:1342] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:42:1342] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:44:1344] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:44:1344] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:46:1346] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:46:1346] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:51:1351] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:51:1351] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:53:1353] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:53:1353] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:13:54:1354] [[32minfo[39m]: Database connected
+[2024-10-08 19:13:54:1354] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:01:141] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:01:141] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:07:147] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:07:147] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:15:1415] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:15:1415] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:19:1419] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:19:1419] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:22:1422] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:22:1422] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:27:1427] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:27:1427] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:28:1428] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:28:1428] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:14:51:1451] [[32minfo[39m]: Database connected
+[2024-10-08 19:14:51:1451] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:15:47:1547] [[32minfo[39m]: Database connected
+[2024-10-08 19:15:47:1547] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:15:51:1551] [[32minfo[39m]: Database connected
+[2024-10-08 19:15:51:1551] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:15:53:1553] [[32minfo[39m]: Database connected
+[2024-10-08 19:15:53:1553] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:17:32:1732] [[32minfo[39m]: Database connected
+[2024-10-08 19:17:32:1732] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:17:56:1756] [[32minfo[39m]: Database connected
+[2024-10-08 19:17:56:1756] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:19:25:1925] [[32minfo[39m]: Database connected
+[2024-10-08 19:19:25:1925] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:20:29:2029] [[32minfo[39m]: Database connected
+[2024-10-08 19:20:29:2029] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:20:30:2030] [[32minfo[39m]: Database connected
+[2024-10-08 19:20:30:2030] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:20:57:2057] [[32minfo[39m]: Database connected
+[2024-10-08 19:20:57:2057] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:21:00:210] [[32minfo[39m]: Database connected
+[2024-10-08 19:21:00:210] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:21:01:211] [[32minfo[39m]: {
+  username: 'manjindersingh',
+  email: 'manjindersingh3@gmail.com',
+  password: 'manjinder',
+  _id: new ObjectId('670538c5275af36f84b1b302'),
+  createdAt: 2024-10-08T13:51:01.589Z,
+  updatedAt: 2024-10-08T13:51:01.589Z,
+  __v: 0
+}
+[2024-10-08 19:22:03:223] [[32minfo[39m]: Database connected
+[2024-10-08 19:22:03:223] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:22:04:224] [[32minfo[39m]: Database connected
+[2024-10-08 19:22:04:224] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:22:07:227] [[32minfo[39m]: Database connected
+[2024-10-08 19:22:07:227] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:22:18:2218] [[32minfo[39m]: Database connected
+[2024-10-08 19:22:18:2218] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:22:20:2220] [[32minfo[39m]: Database connected
+[2024-10-08 19:22:20:2220] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:22:31:2231] [[32minfo[39m]: Database connected
+[2024-10-08 19:22:31:2231] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:22:40:2240] [[31merror[39m]: User validation failed: email: Path `email` is required.
+[2024-10-08 19:22:59:2259] [[32minfo[39m]: Database connected
+[2024-10-08 19:22:59:2259] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:23:08:238] [[32minfo[39m]: Database connected
+[2024-10-08 19:23:08:238] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:25:11:2511] [[32minfo[39m]: Database connected
+[2024-10-08 19:25:11:2511] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:25:40:2540] [[32minfo[39m]: Database connected
+[2024-10-08 19:25:40:2540] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:25:46:2546] [[32minfo[39m]: Database connected
+[2024-10-08 19:25:46:2546] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:25:50:2550] [[32minfo[39m]: Database connected
+[2024-10-08 19:25:50:2550] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:25:51:2551] [[32minfo[39m]: Database connected
+[2024-10-08 19:25:51:2551] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:25:59:2559] [[32minfo[39m]: Database connected
+[2024-10-08 19:25:59:2559] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:26:06:266] [[32minfo[39m]: Database connected
+[2024-10-08 19:26:06:266] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:26:19:2619] [[32minfo[39m]: Database connected
+[2024-10-08 19:26:19:2619] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:26:22:2622] [[32minfo[39m]: Database connected
+[2024-10-08 19:26:22:2622] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:30:51:3051] [[32minfo[39m]: Database connected
+[2024-10-08 19:30:51:3051] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:31:03:313] [[32minfo[39m]: Database connected
+[2024-10-08 19:31:03:313] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:31:13:3113] [[32minfo[39m]: Database connected
+[2024-10-08 19:31:13:3113] [[32minfo[39m]: Server is running on port 8000
+[2024-10-08 19:31:20:3120] [[31merror[39m]: User already exists
+[2024-10-08 19:31:20:3120] [[31merror[39m]: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: "manjinder" }
+[2024-10-08 19:31:26:3126] [[31merror[39m]: User already exists
+[2024-10-08 19:31:26:3126] [[31merror[39m]: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "manjindersingh3@gmail.com" }
+[2024-10-08 19:31:45:3145] [[32minfo[39m]: {
+  _id: new ObjectId('67053b491046ffcf6c97894d'),
+  username: 'singhmanjinder',
+  email: 'manjindersingh9@gmail.com',
+  createdAt: 2024-10-08T14:01:45.756Z,
+  updatedAt: 2024-10-08T14:01:45.756Z,
+  __v: 0
+}
+[2024-10-08 19:31:58:3158] [[32minfo[39m]: {
+  _id: new ObjectId('67053b561046ffcf6c978951'),
+  username: 'rgrwt',
+  email: 'fgrqwrg@gmail.com',
+  createdAt: 2024-10-08T14:01:58.674Z,
+  updatedAt: 2024-10-08T14:01:58.674Z,
+  __v: 0
+}
+[2024-10-08 19:32:06:326] [[32minfo[39m]: Database connected
+[2024-10-08 19:32:06:326] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 14:09:06:96] [[32minfo[39m]: Database connected
+[2024-10-09 14:09:06:96] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:46:49:4649] [[32minfo[39m]: Database connected
+[2024-10-09 15:46:49:4649] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:47:10:4710] [[32minfo[39m]: Database connected
+[2024-10-09 15:47:10:4710] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:47:33:4733] [[32minfo[39m]: Database connected host.connection.port
+[2024-10-09 15:47:33:4733] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:47:37:4737] [[32minfo[39m]: Database connected $host.connection.port
+[2024-10-09 15:47:37:4737] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:47:41:4741] [[32minfo[39m]: Database connected 27017
+[2024-10-09 15:47:41:4741] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:47:56:4756] [[32minfo[39m]: Database connected on port27017
+[2024-10-09 15:47:56:4756] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:47:58:4758] [[32minfo[39m]: Database connected on port:27017
+[2024-10-09 15:47:58:4758] [[32minfo[39m]: Server is running on port 8000
+[2024-10-09 15:48:00:480] [[32minfo[39m]: Database connected on port: 27017
+[2024-10-09 15:48:00:480] [[32minfo[39m]: Server is running on port 8000
+[2024-12-26 17:27:47:2747] [[32minfo[39m]: Database connected on port: 27017

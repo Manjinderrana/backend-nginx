@@ -1,0 +1,5 @@
+[2024-10-08 19:22:40:2240] [[31merror[39m]: User validation failed: email: Path `email` is required.
+[2024-10-08 19:31:20:3120] [[31merror[39m]: User already exists
+[2024-10-08 19:31:20:3120] [[31merror[39m]: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: "manjinder" }
+[2024-10-08 19:31:26:3126] [[31merror[39m]: User already exists
+[2024-10-08 19:31:26:3126] [[31merror[39m]: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "manjindersingh3@gmail.com" }
