@@ -1,6 +1,5 @@
 import { Request, Response } from "express"
 import * as userService from "./user.service"
-import Logger from "../utils/logger"
 import bcrypt from "bcrypt"
 import { generateAccessToken, generateRefreshToken, isPasswordCorrect } from "../utils/jwtUtils"
 import { IUser } from "./user.interface"
