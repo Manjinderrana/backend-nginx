@@ -8,15 +8,15 @@ dotenv.config()
 
 const app = express()
 
-app.use(cors({origin: "*"}))
+app.use(cors({ origin: "*" }))
 
 app.use(express.json())
 
-app.get('/', (_req: Request,res: Response) => {
+app.get('/', (_req: Request, res: Response) => {
     res.json({ message: "Backend Working" })
 })
 
-app.get('/health', (_req: Request,res: Response) => {
+app.get('/health', (_req: Request, res: Response) => {
     res.json({ message: "this is node backend application" })
 })
 
@@ -25,11 +25,11 @@ app.use(router)
 const port = process.env.PORT || 8002
 
 connectDB()
-.then(()=> {
-    app.listen(port, ()=>{
-       Logger.info(`Server is running on port ${port}` )
+    .then(() => {
+        app.listen(port, () => {
+            Logger.info(`Server is running on port ${port}`)
+        })
     })
-})
-.catch((error) => {
-    Logger.error(error,  "Error connecting to database")
-})
+    .catch((error) => {
+        Logger.error(error, "Error connecting to database")
+    })
