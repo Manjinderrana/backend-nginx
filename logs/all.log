@@ -487,3 +487,96 @@
 [2024-10-09 15:48:00:480] [[32minfo[39m]: Database connected on port: 27017
 [2024-10-09 15:48:00:480] [[32minfo[39m]: Server is running on port 8000
 [2024-12-26 17:27:47:2747] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:12:41:1241] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:15:38:1538] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:15:38:1538] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:15:41:1541] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:15:41:1541] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:15:50:1550] [[31merror[39m]: User not found
+[2024-12-31 14:16:17:1617] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:16:17:1617] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:16:19:1619] [[31merror[39m]: User not found
+[2024-12-31 14:16:32:1632] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:16:32:1632] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:16:36:1636] [[31merror[39m]: User not found
+[2024-12-31 14:17:10:1710] [[32minfo[39m]: {
+  _id: new ObjectId('6773af8eaa0a63e2413e3295'),
+  username: 'singh manjinder',
+  email: 'manjnder.s@gmail.com',
+  createdAt: 2024-12-31T08:47:10.890Z,
+  updatedAt: 2024-12-31T08:47:10.890Z,
+  __v: 0
+}
+[2024-12-31 14:17:12:1712] [[31merror[39m]: User already exists
+[2024-12-31 14:17:12:1712] [[31merror[39m]: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: "singh manjinder" }
+[2024-12-31 14:17:36:1736] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:17:36:1736] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:17:39:1739] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:17:39:1739] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:17:44:1744] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:17:44:1744] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:18:15:1815] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:18:38:1838] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:18:38:1838] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:18:41:1841] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:18:41:1841] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:18:43:1843] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:19:04:194] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:19:04:194] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:19:05:195] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:19:17:1917] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:19:17:1917] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:19:19:1919] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:19:24:1924] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:19:24:1924] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:19:26:1926] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:20:09:209] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:20:09:209] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:20:23:2023] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:20:23:2023] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:20:41:2041] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:20:41:2041] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:20:45:2045] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:20:45:2045] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:21:28:2128] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:21:28:2128] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:21:40:2140] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:21:40:2140] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:22:03:223] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:22:03:223] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:22:42:2242] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:22:42:2242] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:22:53:2253] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:22:53:2253] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:23:03:233] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:23:03:233] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:23:24:2324] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:23:24:2324] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:23:48:2348] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:23:48:2348] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:23:51:2351] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:23:51:2351] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:23:57:2357] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:23:57:2357] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:24:12:2412] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:24:12:2412] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:24:54:2454] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:24:54:2454] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:24:57:2457] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:24:57:2457] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:26:17:2617] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:26:17:2617] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:26:32:2632] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:26:32:2632] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:27:58:2758] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:27:58:2758] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:28:06:286] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:28:06:286] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:28:08:288] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:28:08:288] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:28:11:2811] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:28:11:2811] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:28:15:2815] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:28:15:2815] [[32minfo[39m]: Server is running on port 6000
+[2024-12-31 14:28:17:2817] [[32minfo[39m]: Database connected on port: 27017
+[2024-12-31 14:28:17:2817] [[32minfo[39m]: Server is running on port 6000

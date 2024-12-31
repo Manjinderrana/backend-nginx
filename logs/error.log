@@ -3,3 +3,13 @@
 [2024-10-08 19:31:20:3120] [[31merror[39m]: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: "manjinder" }
 [2024-10-08 19:31:26:3126] [[31merror[39m]: User already exists
 [2024-10-08 19:31:26:3126] [[31merror[39m]: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "manjindersingh3@gmail.com" }
+[2024-12-31 14:15:50:1550] [[31merror[39m]: User not found
+[2024-12-31 14:16:19:1619] [[31merror[39m]: User not found
+[2024-12-31 14:16:36:1636] [[31merror[39m]: User not found
+[2024-12-31 14:17:12:1712] [[31merror[39m]: User already exists
+[2024-12-31 14:17:12:1712] [[31merror[39m]: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: "singh manjinder" }
+[2024-12-31 14:18:15:1815] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:18:43:1843] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:19:05:195] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:19:19:1919] [[31merror[39m]: data and hash arguments required
+[2024-12-31 14:19:26:1926] [[31merror[39m]: data and hash arguments required

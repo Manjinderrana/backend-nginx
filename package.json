@@ -17,6 +17,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "inversify": "^6.0.2",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.0",
     "winston": "^3.15.0",
     "winston-daily-rotate-file": "^5.0.0"
@@ -26,6 +27,7 @@
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "@types/inversify": "^2.0.33",
+    "@types/jsonwebtoken": "^9.0.7",
     "@types/mongoose": "^5.11.97",
     "@types/nodemon": "^1.19.6",
     "@types/winston": "^2.4.4",

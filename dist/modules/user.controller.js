@@ -35,28 +35,59 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.createUser = void 0;
+exports.loginUser = exports.createUser = void 0;
 const userService = __importStar(require("./user.service"));
-const logger_1 = __importDefault(require("../utils/logger"));
 const bcrypt_1 = __importDefault(require("bcrypt"));
+const jwtUtils_1 = require("../utils/jwtUtils");
 const createUser = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const { username, email, password } = req.body;
         if ([username, email, password].some((field) => (field === null || field === void 0 ? void 0 : field.trim) === "")) {
-            logger_1.default.error('All fields are required');
+            throw new Error('All fields are required');
         }
         const existingUser = yield userService.getUser({ email }, "username email");
         if (existingUser) {
-            logger_1.default.error('User already exists');
+            throw new Error('User already exists');
         }
         const hashedPassword = yield bcrypt_1.default.hash(password, 10);
         const user = yield userService.createUser({ username, email, password: hashedPassword });
         const createdUser = yield userService.getUser({ email: user === null || user === void 0 ? void 0 : user.email }, "-password");
-        logger_1.default.info(createdUser);
         return res.status(201).json({ data: createdUser });
     }
     catch (error) {
-        logger_1.default.error(error);
+        throw new Error(error.message);
     }
 });
 exports.createUser = createUser;
+const loginUser = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+        const { email, password } = req.body;
+        if ([email, password].some((field) => (field === null || field === void 0 ? void 0 : field.trim()) === "")) {
+            throw new Error('Email and password are required');
+        }
+        const existingUser = yield userService.getUser({ email }, "-password");
+        console.log(existingUser, "user");
+        if (!existingUser) {
+            throw new Error('User not found');
+        }
+        const isPasswordCorrect = yield bcrypt_1.default.compare(password, existingUser.password);
+        if (!isPasswordCorrect) {
+            throw new Error('Password is incorrect');
+        }
+        const accessToken = (0, jwtUtils_1.generateAccessToken)(existingUser);
+        const refreshToken = (0, jwtUtils_1.generateRefreshToken)(existingUser);
+        const options = {
+            httpOnly: true,
+            secure: true,
+        };
+        return res
+            .status(200)
+            .cookie('accessToken', accessToken, options)
+            .cookie('refreshToken', refreshToken, options)
+            .json({ data: existingUser });
+    }
+    catch (error) {
+        throw new Error(error.message);
+    }
+});
+exports.loginUser = loginUser;
